@@ -1,0 +1,3 @@
+[submodule "saealib"]
+	path = saealib
+	url = https://github.com/shlka/saealib.git
